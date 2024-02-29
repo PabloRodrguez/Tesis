@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "AppTesis",
+    "slug": "AppTesis",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Icono.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splash/splash.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/splash/splash.png"
+    }
+  }
+}
